@@ -24,5 +24,5 @@ This repository contains the open-source uptime monitor and status page for [Pla
 
 ## 📄 License
 
-- Code: [MIT](./LICENSE) © [Hayden Ball](www.haydenball.me.uk)
+- Code: [MIT](./LICENSE) © [PlayerData Holdings Ltd](https://www.playerdata.co.uk)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
