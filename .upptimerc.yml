@@ -18,12 +18,10 @@ status-website:
   name: PlayerData Status
   introTitle: "PlayerData Service Status"
   introMessage: |
-    <p>Current status for PlayerData services.</p>
+    Current status for PlayerData services.
 
-    <p>
-      Something wrong? Contact
-      <a href="mailto:support@playerdata.co.uk">support@playerdata.co.uk</a>
-    </p>
+    Something wrong? Contact
+    <a href="mailto:support@playerdata.co.uk">support@playerdata.co.uk</a>.
   navbar:
     - title: Status
       href: /
