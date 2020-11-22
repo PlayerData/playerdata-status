@@ -1,6 +1,6 @@
 # [📈 Live Status](https://ball-hayden.github.io/playerdata-status): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [PlayerData](www.playerdata.co.uk) services, powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [PlayerData](https://www.playerdata.co.uk) services, powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/ball-hayden/playerdata-status/workflows/Uptime%20CI/badge.svg)](https://github.com/ball-hayden/playerdata-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/ball-hayden/playerdata-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/ball-hayden/playerdata-status/actions?query=workflow%3A%22Response+Time+CI%22)
