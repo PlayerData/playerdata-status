@@ -3,9 +3,9 @@
     "name": "PlayerData API",
     "url": "https://app.playerdata.co.uk/api/liveness",
     "slug": "player-data-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 984
+    "time": 967
   },
   {
     "name": "PlayerData Web App",
