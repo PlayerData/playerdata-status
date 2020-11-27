@@ -1,4 +1,4 @@
-owner: ball-hayden
+owner: playerdata
 repo: playerdata-status
 
 sites:
@@ -11,10 +11,8 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /playerdata-status
-  logoUrl: https://raw.githubusercontent.com/ball-hayden/playerdata-status/master/static/playerdata-symbol.jpg
+  cname: status.playerdata.co.uk
+  logoUrl: https://raw.githubusercontent.com/playerdata/playerdata-status/master/static/playerdata-symbol.jpg
   name: PlayerData Status
   introTitle: "PlayerData Service Status"
   introMessage: |
