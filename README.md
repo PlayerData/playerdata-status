@@ -20,7 +20,7 @@ This repository contains the open-source uptime monitor and status page for [Pla
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://ball-hayden.github.io/playerdata-status)
+[**Visit our status website →**](https://status.playerdata.co.uk)
 
 ## 📄 License
 
