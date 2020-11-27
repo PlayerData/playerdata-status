@@ -16,8 +16,6 @@ status-website:
   name: PlayerData Status
   introTitle: "PlayerData Service Status"
   introMessage: |
-    Current status for PlayerData services.
-
     Something wrong? Contact
     <a href="mailto:support@playerdata.co.uk">support@playerdata.co.uk</a>.
   navbar:
