@@ -5,7 +5,7 @@
     "slug": "player-data-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 967
+    "time": 971
   },
   {
     "name": "PlayerData Web App",
@@ -13,7 +13,7 @@
     "slug": "player-data-web-app",
     "status": "up",
     "uptime": "100.00%",
-    "time": 99
+    "time": 101
   },
   {
     "name": "PlayerData Website",
@@ -21,6 +21,6 @@
     "slug": "player-data-website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 344
+    "time": 376
   }
 ]
