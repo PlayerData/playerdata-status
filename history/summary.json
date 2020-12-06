@@ -4,16 +4,16 @@
     "url": "https://app.playerdata.co.uk/api/liveness",
     "slug": "player-data-api",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.47%",
+    "uptime": "99.83%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 857,
-    "timeDay": 542,
-    "timeWeek": 778,
-    "timeMonth": 857,
-    "timeYear": 857
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 851,
+    "timeDay": 694,
+    "timeWeek": 773,
+    "timeMonth": 851,
+    "timeYear": 851
   },
   {
     "name": "PlayerData Web App",
@@ -26,7 +26,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 87,
+    "timeDay": 85,
     "timeWeek": 90,
     "timeMonth": 95,
     "timeYear": 95
@@ -41,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 453,
-    "timeWeek": 350,
-    "timeMonth": 345,
-    "timeYear": 345
+    "time": 341,
+    "timeDay": 272,
+    "timeWeek": 329,
+    "timeMonth": 341,
+    "timeYear": 341
   }
 ]
