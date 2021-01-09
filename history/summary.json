@@ -47,9 +47,9 @@
     "url": "https://www.playerdata.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.playerdata.co.uk",
     "slug": "player-data-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,6 +58,8 @@
     "timeWeek": 321,
     "timeMonth": 298,
     "timeYear": 319,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-09": 0
+    }
   }
 ]
