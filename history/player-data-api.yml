@@ -1,7 +1,7 @@
 url: https://app.playerdata.co.uk/api/liveness
-status: down
-code: 503
-responseTime: 642
-lastUpdated: 2021-02-15T06:50:04.918Z
+status: up
+code: 204
+responseTime: 438
+lastUpdated: 2021-02-15T06:58:40.339Z
 startTime: Sun Nov 22 2020 10:44:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
