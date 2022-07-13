@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 470,
-    "timeWeek": 560,
-    "timeMonth": 605,
-    "timeYear": 624,
+    "time": 649,
+    "timeDay": 400,
+    "timeWeek": 567,
+    "timeMonth": 597,
+    "timeYear": 623,
     "dailyMinutesDown": {
       "2021-12-14": 16
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 84,
+    "timeDay": 81,
     "timeWeek": 104,
-    "timeMonth": 112,
+    "timeMonth": 111,
     "timeYear": 103,
     "dailyMinutesDown": {}
   },
@@ -43,18 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/www.playerdata.co.uk",
     "slug": "player-data-website",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 906,
-    "timeDay": 806,
-    "timeWeek": 767,
-    "timeMonth": 856,
+    "timeDay": 774,
+    "timeWeek": 768,
+    "timeMonth": 838,
     "timeYear": 945,
     "dailyMinutesDown": {
-      "2022-07-12": 10,
       "2022-04-09": 40
     }
   }
