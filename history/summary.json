@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 643,
     "timeDay": 442,
-    "timeWeek": 638,
-    "timeMonth": 651,
+    "timeWeek": 615,
+    "timeMonth": 655,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2021-12-14": 16
@@ -44,9 +44,9 @@
     "slug": "player-data-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 942,
     "timeDay": 744,
@@ -54,7 +54,6 @@
     "timeMonth": 729,
     "timeYear": 1010,
     "dailyMinutesDown": {
-      "2022-08-29": 6,
       "2022-04-09": 40
     }
   }
