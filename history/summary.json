@@ -4,7 +4,7 @@
     "url": "https://app.playerdata.co.uk/api/liveness",
     "icon": "https://icons.duckduckgo.com/ip3/app.playerdata.co.uk.ico",
     "slug": "player-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 625,
     "timeYear": 586,
     "dailyMinutesDown": {
+      "2022-11-29": 0,
       "2021-12-14": 16
     }
   },
@@ -43,18 +44,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.playerdata.co.uk.ico",
     "slug": "player-data-website",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 963,
     "timeDay": 781,
-    "timeWeek": 731,
+    "timeWeek": 758,
     "timeMonth": 760,
     "timeYear": 1101,
     "dailyMinutesDown": {
-      "2022-11-29": 9,
       "2022-09-13": 18,
       "2022-09-08": 15,
       "2022-04-09": 40
