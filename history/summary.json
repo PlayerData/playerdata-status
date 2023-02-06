@@ -6,9 +6,9 @@
     "slug": "player-data-api",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 603,
     "timeDay": 565,
@@ -16,7 +16,7 @@
     "timeMonth": 576,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2023-02-06": 0
+      "2023-02-06": 12
     }
   },
   {
