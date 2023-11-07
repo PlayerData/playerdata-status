@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 612,
-    "timeDay": 575,
-    "timeWeek": 595,
-    "timeMonth": 605,
+    "time": 611,
+    "timeDay": 651,
+    "timeWeek": 607,
+    "timeMonth": 601,
     "timeYear": 609,
     "dailyMinutesDown": {
       "2023-06-15": 139
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 108,
-    "timeDay": 133,
-    "timeWeek": 104,
+    "timeDay": 122,
+    "timeWeek": 110,
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -46,17 +46,16 @@
     "slug": "player-data-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 960,
-    "timeDay": 470,
-    "timeWeek": 561,
-    "timeMonth": 620,
+    "timeDay": 429,
+    "timeWeek": 602,
+    "timeMonth": 622,
     "timeYear": 864,
     "dailyMinutesDown": {
-      "2023-11-06": 9,
       "2023-03-10": 15
     }
   }
