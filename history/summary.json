@@ -46,9 +46,9 @@
     "slug": "player-data-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1004,
     "timeDay": 2605,
@@ -56,8 +56,6 @@
     "timeMonth": 1032,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2023-11-08": 2,
-      "2023-11-07": 7,
       "2023-03-10": 15
     }
   }
