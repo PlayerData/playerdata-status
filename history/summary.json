@@ -4,19 +4,19 @@
     "url": "https://app.playerdata.co.uk/api/liveness",
     "icon": "https://icons.duckduckgo.com/ip3/app.playerdata.co.uk.ico",
     "slug": "player-data-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 700,
-    "timeDay": 10599,
-    "timeWeek": 4564,
-    "timeMonth": 1812,
+    "timeDay": 8628,
+    "timeWeek": 4217,
+    "timeMonth": 1781,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2024-09-19": 0
+      "2024-09-19": 17
     }
   },
   {
