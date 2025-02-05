@@ -43,19 +43,19 @@
     "url": "https://www.playerdata.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.playerdata.co.uk.ico",
     "slug": "player-data-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 858,
-    "timeDay": 768,
-    "timeWeek": 834,
-    "timeMonth": 950,
-    "timeYear": 843,
+    "time": 859,
+    "timeDay": 811,
+    "timeWeek": 861,
+    "timeMonth": 960,
+    "timeYear": 844,
     "dailyMinutesDown": {
-      "2025-02-05": 31
+      "2025-02-05": 39
     }
   }
 ]
