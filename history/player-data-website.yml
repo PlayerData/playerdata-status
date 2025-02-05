@@ -1,7 +1,7 @@
 url: https://www.playerdata.co.uk
-status: up
-code: 200
-responseTime: 898
-lastUpdated: 2025-02-04T23:01:25.317Z
+status: down
+code: 429
+responseTime: 873
+lastUpdated: 2025-02-05T01:54:40.283Z
 startTime: 2020-11-22T10:44:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
