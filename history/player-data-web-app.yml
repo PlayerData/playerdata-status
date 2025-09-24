@@ -1,7 +1,7 @@
 url: https://app.playerdata.co.uk
-status: down
-code: 503
-responseTime: 80
-lastUpdated: 2025-09-24T15:40:18.029Z
+status: up
+code: 200
+responseTime: 83
+lastUpdated: 2025-09-24T15:49:06.163Z
 startTime: 2020-11-22T10:44:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
