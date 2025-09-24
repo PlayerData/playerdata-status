@@ -28,7 +28,7 @@
     "slug": "player-data-web-app",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 130,
     "timeMonth": 109,
     "timeYear": 102,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-24": 0
+    }
   },
   {
     "name": "PlayerData Website",
