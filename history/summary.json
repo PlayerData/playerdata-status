@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 794,
-    "timeDay": 920,
-    "timeWeek": 756,
-    "timeMonth": 672,
+    "timeDay": 683,
+    "timeWeek": 767,
+    "timeMonth": 676,
     "timeYear": 715,
     "dailyMinutesDown": {
       "2025-04-04": 16,
@@ -28,18 +28,16 @@
     "slug": "player-data-web-app",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 98,
-    "timeWeek": 119,
-    "timeMonth": 108,
+    "timeDay": 95,
+    "timeWeek": 118,
+    "timeMonth": 109,
     "timeYear": 102,
-    "dailyMinutesDown": {
-      "2025-09-24": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PlayerData Website",
@@ -52,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 903,
-    "timeDay": 1578,
-    "timeWeek": 1311,
-    "timeMonth": 1140,
-    "timeYear": 991,
+    "time": 904,
+    "timeDay": 1341,
+    "timeWeek": 1303,
+    "timeMonth": 1136,
+    "timeYear": 993,
     "dailyMinutesDown": {
       "2025-08-21": 36,
       "2025-02-05": 122
